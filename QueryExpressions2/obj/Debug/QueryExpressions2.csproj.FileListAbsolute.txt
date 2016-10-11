@@ -1,0 +1,6 @@
+c:\users\bkilkenney\documents\visual studio 2015\Projects\QueryExpressions2\QueryExpressions2\bin\Debug\QueryExpressions2.exe.config
+c:\users\bkilkenney\documents\visual studio 2015\Projects\QueryExpressions2\QueryExpressions2\bin\Debug\QueryExpressions2.exe
+c:\users\bkilkenney\documents\visual studio 2015\Projects\QueryExpressions2\QueryExpressions2\bin\Debug\QueryExpressions2.pdb
+c:\users\bkilkenney\documents\visual studio 2015\Projects\QueryExpressions2\QueryExpressions2\obj\Debug\QueryExpressions2.csprojResolveAssemblyReference.cache
+c:\users\bkilkenney\documents\visual studio 2015\Projects\QueryExpressions2\QueryExpressions2\obj\Debug\QueryExpressions2.exe
+c:\users\bkilkenney\documents\visual studio 2015\Projects\QueryExpressions2\QueryExpressions2\obj\Debug\QueryExpressions2.pdb
